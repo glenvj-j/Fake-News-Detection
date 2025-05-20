@@ -1,5 +1,9 @@
 # Fake News Detection with NLP & Machine Learning
 
+
+![Cover](https://github.com/user-attachments/assets/0fa71977-91e6-4800-8c17-fa70a81b3b87)
+
+
 > [!NOTE]
 > **Created by:** [Glen Valencius](https://github.com/glenvj-j)  
 **Dataset Source:** [Kaggle](https://www.kaggle.com/datasets/mahdimashayekhi/fake-news-detection-dataset/data)
