@@ -6,7 +6,8 @@
 
 > [!NOTE]
 > **Created by:** [Glen Valencius](https://github.com/glenvj-j)  
-**Dataset Source:** [Kaggle](https://www.kaggle.com/datasets/mahdimashayekhi/fake-news-detection-dataset/data)
+**Dataset Source:** [Kaggle](https://www.kaggle.com/datasets/mahdimashayekhi/fake-news-detection-dataset/data) <p>
+**Slides:** [Google Slides](https://docs.google.com/presentation/d/124N4-jHtYNBUpURUTWdVgKDqY9as_xAJQ7DdKLAEEw8/edit?slide=id.p#slide=id.p)
 
 
 
